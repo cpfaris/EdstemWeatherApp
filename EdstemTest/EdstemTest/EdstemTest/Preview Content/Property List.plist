@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Privacy - Location When In Use Usage Description</key>
+	<string>Please allow us to access locaton for Presonalized results in our app.</string>
+    
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location to provide location-based features.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>We need your location to provide location-based features even in the background.</string>
+</dict>
+</plist>
+//Property List
